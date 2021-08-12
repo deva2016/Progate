@@ -1,0 +1,13 @@
+/* Untuk Tablet */            
+@media all and (max-width: 1000px) {
+    footer {
+       float: left;
+    }
+   }
+   
+   /* Untuk Handphone */
+@media all and (max-width: 670px) {
+    footer {
+           float: left;
+    }
+   }
